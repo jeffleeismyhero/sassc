@@ -1,5 +1,5 @@
-CC       ?= cc
-CXX      ?= c++
+CC       ?= gcc
+CXX      ?= g++
 RM       ?= rm -f
 CP       ?= cp -a
 CHDIR    ?= chdir
